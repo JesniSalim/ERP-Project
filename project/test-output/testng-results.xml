@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="71892" started-at="2020-06-15T12:06:25 IST" finished-at="2020-06-15T12:07:37 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="71892" started-at="2020-06-15T12:06:25 IST" finished-at="2020-06-15T12:07:37 IST">
+      <class name="tests.JobTest">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:tests.JobTest@671a5887]" name="beforeTest" is-config="true" duration-ms="11126" started-at="2020-06-15T12:06:25 IST" finished-at="2020-06-15T12:06:37 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="Login()[pri:0, instance:tests.JobTest@671a5887]" name="Login" duration-ms="4408" started-at="2020-06-15T12:06:37 IST" finished-at="2020-06-15T12:06:41 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method status="PASS" signature="Home()[pri:1, instance:tests.JobTest@671a5887]" name="Home" duration-ms="7074" started-at="2020-06-15T12:06:41 IST" finished-at="2020-06-15T12:06:48 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Home -->
+        <test-method status="PASS" signature="profile()[pri:2, instance:tests.JobTest@671a5887]" name="profile" duration-ms="12081" started-at="2020-06-15T12:06:48 IST" finished-at="2020-06-15T12:07:00 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- profile -->
+        <test-method status="PASS" signature="jobs()[pri:3, instance:tests.JobTest@671a5887]" name="jobs" duration-ms="36591" started-at="2020-06-15T12:07:00 IST" finished-at="2020-06-15T12:07:37 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- jobs -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:tests.JobTest@671a5887]" name="afterTest" is-config="true" duration-ms="550" started-at="2020-06-15T12:07:37 IST" finished-at="2020-06-15T12:07:37 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- tests.JobTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

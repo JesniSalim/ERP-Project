@@ -54,7 +54,7 @@ public class EmployeePage {
 			frm.sendKeys("31-05-2020");
 			Thread.sleep(1000);
 			save.click();
-			Thread.sleep(1000);
+			//Thread.sleep(1000);
 		}
 	public EmployeePage(WebDriver driver)
 	{
